@@ -12,6 +12,11 @@ Information regarding the bacteria on individual volunteers is chosen through a 
 
 ![image](https://user-images.githubusercontent.com/106293233/187012699-9e5b83b0-8bbe-41c4-aae8-f8e55267dfc8.png)
 
+## Customizations
 
+The following customizations were made to the page:
+- The background was changed to a blue-gray color.
+- The main font was changed to Garamond.
+- A description for the entire project was added below the "jumbotron" and a description was provided below each chart.
 
 
