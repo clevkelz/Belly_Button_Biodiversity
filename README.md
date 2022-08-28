@@ -12,6 +12,8 @@ Information regarding the bacteria on individual volunteers is chosen through a 
 
 ![image](https://user-images.githubusercontent.com/106293233/187012699-9e5b83b0-8bbe-41c4-aae8-f8e55267dfc8.png)
 
+The GitHub page link is:  https://clevkelz.github.io/Belly_Button_Biodiversity/
+
 ## Customizations
 
 The following customizations were made to the page:
